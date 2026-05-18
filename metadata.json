@@ -1,0 +1,8 @@
+{
+  "name": "Neon Snake & Synth",
+  "description": "A dark neon Snake game with a built-in synthwave music player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
